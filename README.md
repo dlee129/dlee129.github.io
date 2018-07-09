@@ -6,7 +6,9 @@ I am a graduate from Queens College with my Bachelor's in Computer Science! Thro
 
 ### Projects
 
-There are a couple of projects that I have completed and are avaiable to be viewed through my [github profile] (https://github.com/dlee129).
+[Google](https://google.com)
+
+There are a couple of projects that I have completed and are avaiable to be viewed through my [github profile](https://github.com/dlee129).
 
 Some of the more notable projects include: 
 
