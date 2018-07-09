@@ -1,11 +1,9 @@
-# David Lee's Website!
-
 ## Welcome to my Website!
 Here is a sample of my work [Color Game](https://github.com/dlee129/ColorGame/index.html) that uses HTML, CSS, and Javascript to be a game in which the user has to guess the shade of the color based on the given rbg attributes.
 
 ### About Me 
 
-I am a graduate from Queens College with my Bachelor's in Computer Science! Throughout my 4 years of studying Computer Science at Queens College, I have taken many different types of courses and have come to enjoy Computer Science as a whole. I am always looking to learn new technologies and evolve as a programmer.
+My name is David Lee and I am a graduate from Queens College with my Bachelor's in Computer Science! Throughout my 4 years of studying Computer Science at Queens College, I have taken many different types of courses and have come to enjoy Computer Science as a whole. I am always looking to learn new technologies and evolve as a programmer.
 
 ### Projects
 
