@@ -21,10 +21,15 @@ Some of the more notable projects include:
 
 ### Contact Me
 
-<div>
 <form method="POST" action="https://formspree.io/david.y.lee09@gmail.com">
-  <input type="email" name="email" placeholder="Your email">
+  <div>
+    <input type="email" name="email" placeholder="Your email">
+  </div>
+  <div>
   <textarea name="message" placeholder="Your message"></textarea>
+  </div>
+  <div>
   <button type="submit">Send</button>
+  </div>
 </form>
  </div>
