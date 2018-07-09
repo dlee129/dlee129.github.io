@@ -21,7 +21,7 @@ Some of the more notable projects include:
 
 ### Contact Me
 
-<form method="POST" action="https://formspree.io/david.y.lee09@gmail.com"><input type="email" name="email" placeholder="Your email"> <br/>
+<form method="POST" action="https://formspree.io/david.y.lee09@gmail.com"><input type="email" name="email" placeholder="Your email"> <br/><br/>
   
   \<textarea name="message" placeholder="Your message"></textarea><br/> 
   
