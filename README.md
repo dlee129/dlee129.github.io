@@ -25,6 +25,6 @@ Some of the more notable projects include:
   <div>
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
-  </div>
   <button type="submit">Send</button>
+  </div>
 </form>
