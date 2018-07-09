@@ -24,6 +24,6 @@ Please leave your name and some contact information if you would like to speak t
 
 <form method="POST" action="https://formspree.io/david.y.lee09@gmail.com"><input type="email" name="email" placeholder="Your email"> <br/>
 <br/>  
-  <textarea name="message" placeholder="Your message"></textarea><br/> 
+<textarea name="message" placeholder="Your message"></textarea><br/> 
   
   <button type="submit">Send</button></form>
