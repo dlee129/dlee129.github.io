@@ -23,8 +23,8 @@ Some of the more notable projects include:
 
 <form method="POST" action="https://formspree.io/david.y.lee09@gmail.com">
   <div>
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Your message"></textarea>
-  <button type="submit">Send</button>
+    <input type="email" name="email" placeholder="Your email">
+    <textarea name="message" placeholder="Your message"></textarea>
+    <button type="submit">Send</button>
   </div>
 </form>
