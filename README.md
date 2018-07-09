@@ -1,5 +1,5 @@
 ## Welcome to my Website!
-Here is a sample of my work [Color Game](https://github.com/dlee129/ColorGame/index.html) that uses HTML, CSS, and Javascript to be a game in which the user has to guess the shade of the color based on the given rbg attributes.
+Here is a sample of my work [Color Game](https://github.com/dlee129/ColorGame) that uses HTML, CSS, and Javascript to be a game in which the user has to guess the shade of the color based on the given rbg attributes.
 
 ### About Me 
 
