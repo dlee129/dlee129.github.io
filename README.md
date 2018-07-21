@@ -25,4 +25,4 @@ Please leave your name and some contact information if you would like to speak t
 <br/>  
 <textarea name="message" placeholder="Your message"></textarea><br/> 
   
-  <button type="submit">Send</button></form>
+<button type="submit">Send</button></form>
